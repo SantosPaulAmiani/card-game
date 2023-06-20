@@ -1,1 +1,1 @@
-# card-game
+# python-games
